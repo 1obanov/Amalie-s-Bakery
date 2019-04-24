@@ -1,7 +1,7 @@
 # Amalie's Bakery - Onepage Template
 Please look at my perfectly responsive one page website.
 
-#### Live preview --> [Amalie's Bakery - Onepage Template](https://1obanov.github.io/Amalie-s-Bakerys/)
+#### Live preview --> [Amalie's Bakery - Onepage Template](https://1obanov.github.io/Amalie-s-Bakery/)
 
 ## Built with:
 
