@@ -1,21 +1,20 @@
-# Bergoef - One Page Restaurant Template.
-Please look at my perfectly responsive website.
+# Amalie's Bakery - Onepage Template
+Please look at my perfectly responsive one page website.
 
-#### Live preview --> [Bergoef - One Page Restaurant Template](https://1obanov.github.io/Bergoef/)
+#### Live preview --> [Amalie's Bakery - Onepage Template](https://1obanov.github.io/Amalie-s-Bakery/)
 
 ## Built with:
 
 * HTML 
 * SASS
+* Bootstrap
 * RWD
 * JavaScript
 * jQuery
-* PHP
 
 ## Credits:
 
 - [jQuery](http://jquery.com/)
-- [Ajax mail chimp](https://github.com/scdoshi/jquery-ajaxchimp)
+- [singlePageNav](https://github.com/ChrisWojcik/single-page-nav)
 - [Slick](http://kenwheeler.github.io/slick/)
-- [jQuery validate](https://github.com/jzaefferer/jquery-validation)
-- [Font Awesome](https://fontawesome.com/v4.7.0/icons/)
+- [Isotope](https://isotope.metafizzy.co/)
