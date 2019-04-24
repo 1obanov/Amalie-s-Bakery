@@ -145,33 +145,6 @@ h2 {
     }
 }
 
-.fixed {
-    display: block !important;
-    position: absolute;
-    left: 0;
-    background-color: #000;
-    width: 100vw;
-    height: 105vh;
-    margin-top: 47px;
-    border-top: 1px solid rgb(68, 68, 68);
-
-    .navbar-nav {
-        flex-direction: column !important;
-        align-items: center;
-        line-height: 25px;
-    }
-
-    .basket,
-    .profile {
-        line-height: 25px;
-    }
-
-    .active {
-        background: none !important;
-        color: rgb(248, 174, 0);
-    }
-}
-
 /* ---------------- Home Section  -----------------*/
 #home {
     .navbar {
@@ -750,7 +723,7 @@ h2 {
             border-radius: 5px;
             background-color: rgb(237, 237, 237);
             padding: 10px 15px;
-            margin: 0 5px;
+            margin: 5px 5px;
             -webkit-transition: 0.2s;
             -moz-transition: 0.2s;
             -o-transition: 0.2s;
